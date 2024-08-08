@@ -1,3 +1,9 @@
+The upstream https://github.com/mvdctop/Movie_Data_Capture has died.
+
+This is a fork from the last resonable commit I can find, plus fixes made by the following forks: (All credits to the respective authors)
+
+- https://github.com/ramondsq/Movie_Data_Capture
+
 <h1 align="center">Movie Data Capture</h1>
 
 [English](https://github.com/yoshiko2/Movie_Data_Capture/blob/master/README_EN.md)
